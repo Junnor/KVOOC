@@ -14,6 +14,7 @@
 		8B73D940241E521A00721BB8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B73D93F241E521A00721BB8 /* Assets.xcassets */; };
 		8B73D943241E521A00721BB8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B73D941241E521A00721BB8 /* LaunchScreen.storyboard */; };
 		8B73D946241E521A00721BB8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B73D945241E521A00721BB8 /* main.m */; };
+		8B73D94E241E522700721BB8 /* Account.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B73D94D241E522700721BB8 /* Account.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		8B73D942241E521A00721BB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8B73D944241E521A00721BB8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8B73D945241E521A00721BB8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8B73D94C241E522700721BB8 /* Account.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Account.h; sourceTree = "<group>"; };
+		8B73D94D241E522700721BB8 /* Account.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Account.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				8B73D937241E521900721BB8 /* SceneDelegate.m */,
 				8B73D939241E521900721BB8 /* ViewController.h */,
 				8B73D93A241E521900721BB8 /* ViewController.m */,
+				8B73D94C241E522700721BB8 /* Account.h */,
+				8B73D94D241E522700721BB8 /* Account.m */,
 				8B73D93C241E521900721BB8 /* Main.storyboard */,
 				8B73D93F241E521A00721BB8 /* Assets.xcassets */,
 				8B73D941241E521A00721BB8 /* LaunchScreen.storyboard */,
@@ -149,6 +154,7 @@
 				8B73D93B241E521900721BB8 /* ViewController.m in Sources */,
 				8B73D935241E521900721BB8 /* AppDelegate.m in Sources */,
 				8B73D946241E521A00721BB8 /* main.m in Sources */,
+				8B73D94E241E522700721BB8 /* Account.m in Sources */,
 				8B73D938241E521900721BB8 /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
